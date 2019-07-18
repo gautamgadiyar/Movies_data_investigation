@@ -1,7 +1,7 @@
 # Movies Data Investigation
 
 This project aims to get a hands-on experience on Data Analysis using Python. The dataset is the kaggle TmDB dataset that provides a great insight into the various movie genres and rating. The project helps in understanding the various trends across times. It makes use of Python libraries such as: <br>
-1. andas<br>
+1. pandas<br>
 2. numpy<br>
 3. matplotlib<br>
 4. seaborn<br>
